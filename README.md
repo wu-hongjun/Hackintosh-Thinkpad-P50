@@ -1,4 +1,6 @@
-# Thinkpad-P50-Hackintosh
+# Config for Thinkpad P50
+-This config is based on macOS 10.12.4.
+
 -This is a custom hackintosh configuration of my mobile workstation Thinkpad P50.
 -The confituration is as follows:
   Xeon E3 1505M V5
