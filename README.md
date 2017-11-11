@@ -7,5 +7,5 @@
   WebCam
   Lexar ExpressCard SSD
   Intel HD P530 1536MB
--Use this configuration on your own risk as I won't bear any responsibility for damaging anyone's system.
+-Use this configuration on your own risk as I am not responsibile for damaging anyone's system.
 -Happy hackintoshing!
