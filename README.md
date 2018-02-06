@@ -17,4 +17,6 @@
   
 -Use this configuration on your own risk as I am not responsibile for damaging anyone's system.
 
+-This project is CLOSED.
+
 -Happy hackintoshing!
