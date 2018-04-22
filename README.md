@@ -15,8 +15,8 @@
 * Lexar ExpressCard SSD
 * Intel HD P530 1536MB
   
-## Use this configuration on your own risk as I am not responsibile for damaging anyone's system.
+#### Use this configuration on your own risk as I am not responsibile for damaging anyone's system.
 
 ## This project is CLOSED(Since I no longer own this laptop).
 
-## Happy hackintoshing!
+#### Happy hackintoshing!
