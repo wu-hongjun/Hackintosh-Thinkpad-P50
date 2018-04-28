@@ -20,6 +20,7 @@
 
 ### This project is CLOSED(Since I no longer own this laptop).
 #### OH! Don't forget to star this project if you like it!
-[LINK TO TONYMACX86](https://www.tonymacx86.com/threads/thinkpad-p50-hackintosh-sierra-configurations.250832/)
+[Link to TonyMacX86](https://www.tonymacx86.com/threads/thinkpad-p50-hackintosh-sierra-configurations.250832/)
 
 #### Happy hackintoshing!
+### --Errrneist
