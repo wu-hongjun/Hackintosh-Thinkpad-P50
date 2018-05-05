@@ -1,6 +1,7 @@
 # Config for Thinkpad P50
 ### Thanks for [RehabMan](https://www.tonymacx86.com/members/rehabman.429483/) who contributed a lot to this project!
 #### Developer: [Hongjun Wu](https://www.tonymacx86.com/members/errrneist.1550861/)
+#### OH! Don't forget to star this project if you like it!
 ### This config is based on macOS 10.12.4.
 
 * This is a custom hackintosh configuration of my mobile workstation Thinkpad P50.
@@ -20,8 +21,7 @@
 #### Use this configuration on your own risk as I am not responsibile for damaging anyone's system.
 
 ### This project is CLOSED(Since I no longer own this laptop).
-#### OH! Don't forget to star this project if you like it!
 [Link to TonyMacX86](https://www.tonymacx86.com/threads/thinkpad-p50-hackintosh-sierra-configurations.250832/)
 
 #### Happy hackintoshing!
-### --Errrneist
+### Errrneist.
