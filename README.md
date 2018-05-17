@@ -1,10 +1,16 @@
 # Config for Thinkpad P50
-### Thanks for [RehabMan](https://www.tonymacx86.com/members/rehabman.429483/) who contributed a lot to this project!
+
 #### Developer: [Hongjun Wu](https://www.tonymacx86.com/members/errrneist.1550861/)
 #### OH! Don't forget to star this project if you like it!
 #### Fork this project to your own repository to make changes on your own configuration.
+
 #### If you are interested in the theme I used, check it out over here: [Minimalism](https://github.com/Errrneist/Hackintosh-Minimalism-Theme)
-### This config is based on macOS 10.12.4.
+
+## Special Thanks
+* [RehabMan](https://www.tonymacx86.com/members/rehabman.429483/)
+
+## macOS Version
+* This config is based on macOS 10.12.4.
 
 ## Introduction
 * This is a custom hackintosh configuration of my mobile workstation Thinkpad P50.
