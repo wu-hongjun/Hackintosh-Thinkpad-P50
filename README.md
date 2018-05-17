@@ -23,10 +23,14 @@
 * Lexar ExpressCard SSD
 * Intel HD P530 1536MB
   
-#### Use this configuration on your own risk as I am not responsibile for damaging anyone's system.
+## Warning
+* Use this configuration on your own risk as I am not responsibile for damaging anyone's system.
 
-### This project is CLOSED(Since I no longer own this laptop).
-[Link to TonyMacX86](https://www.tonymacx86.com/threads/thinkpad-p50-hackintosh-sierra-configurations.250832/)
+## Project Status
+* This project is CLOSED(Since I no longer own this laptop).
+
+## Links
+* [Link to TonyMacX86](https://www.tonymacx86.com/threads/thinkpad-p50-hackintosh-sierra-configurations.250832/)
 
 #### Happy hackintoshing!
 ### Errrneist.
