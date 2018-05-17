@@ -2,6 +2,7 @@
 ### Thanks for [RehabMan](https://www.tonymacx86.com/members/rehabman.429483/) who contributed a lot to this project!
 #### Developer: [Hongjun Wu](https://www.tonymacx86.com/members/errrneist.1550861/)
 #### OH! Don't forget to star or fork this project if you like it!
+#### If you are interested in the theme I used, check it outover here: [Minimalism](https://github.com/Errrneist/Hackintosh-Minimalism-Theme)
 ### This config is based on macOS 10.12.4.
 
 * This is a custom hackintosh configuration of my mobile workstation Thinkpad P50.
