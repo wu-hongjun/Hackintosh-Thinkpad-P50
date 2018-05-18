@@ -1,4 +1,4 @@
-# Config for Thinkpad P50
+# Hackintosh Configuration for Lenovo Thinkpad P50
 
 #### Developer: [Hongjun Wu](https://www.tonymacx86.com/members/errrneist.1550861/)
 #### OH! Don't forget to star this project if you like it!
