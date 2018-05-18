@@ -22,7 +22,7 @@
 * NVIDIA Quadro M2000M 4GB GDDR5 (Disabled)
 * UHD 15' FlexView Screen
 * WACOM Thinkpad Pro Pen and Screen
-* 720P WebCam
+* 720P WebCam with Indicator Light
 * Toshiba XG3 1TB (Windows)
 * Samsung 850 Pro 1TB (macOS)
 * Samsung PM951 128GB (Ubuntu)
