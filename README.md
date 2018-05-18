@@ -25,8 +25,9 @@
 * Toshiba XG3 1TB (Windows)
 * Samsung 850 Pro 1TB (macOS)
 * Samsung PM951 128GB (Ubuntu)
-* Lexar ExpressCard 4GB SSD (Clover Boot)
 * Samsung EVO Select 128GB SDXC
+* Lexar ExpressCard 4GB SSD (Clover Boot)
+
 
   
 ## Warning
