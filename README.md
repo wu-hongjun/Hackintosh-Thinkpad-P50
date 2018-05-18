@@ -13,15 +13,21 @@
 * This config is based on macOS 10.12.4.
 
 ## Introduction
-* This is a custom hackintosh configuration of my mobile workstation Thinkpad P50.
+* This is a custom hackintosh configuration of Lenovo Thinkpad P50.
 
 ## Machine Configuration
-* Xeon E3 1505M V5
+* Xeon E3 1505M V5 @2.8GHz
 * 32GB DDR4 2133MHZ ECC SODIMM
-* 4K FlexView Screen
-* WebCam
-* Lexar ExpressCard SSD
 * Intel HD P530 1536MB
+* NVIDIA Quadro M2000M 4GB GDDR5 (Disabled)
+* 4K 15' FlexView Screen
+* 720P WebCam
+* Toshiba XG3 1TB (Windows)
+* Samsung 850 Pro 1TB (macOS)
+* Samsung PM951 128GB (Ubuntu)
+* Lexar ExpressCard 4GB SSD (Clover Boot)
+* Samsung EVO Select 128GB SDXC
+
   
 ## Warning
 * Use this configuration on your own risk as I am not responsibile for damaging anyone's system.
