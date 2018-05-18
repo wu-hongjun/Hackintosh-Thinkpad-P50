@@ -20,7 +20,8 @@
 * 32GB DDR4 2133MHZ ECC SODIMM
 * Intel HD P530 1536MB
 * NVIDIA Quadro M2000M 4GB GDDR5 (Disabled)
-* 4K 15' FlexView Screen
+* UHD 15' FlexView Screen
+* WACOM Thinkpad Pro Pen and Screen
 * 720P WebCam
 * Toshiba XG3 1TB (Windows)
 * Samsung 850 Pro 1TB (macOS)
