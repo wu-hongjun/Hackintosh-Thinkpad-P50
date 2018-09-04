@@ -14,6 +14,7 @@
 
 ## Introduction
 * This is a custom hackintosh configuration of Lenovo Thinkpad P50.
+* All my work so far: [RELEASE](https://github.com/Errrneist/Hackintosh-Thinkpad-P50/releases/tag/v10.12.4)
 
 ## Machine Configuration
 * Xeon E3 1505M V5 @2.8GHz
