@@ -1,5 +1,5 @@
 # Hackintosh Configuration for Lenovo Thinkpad P50
-
+> "I think you guys should so more study." ———— The man who changed China.
 #### Developer: [@Errrneist](https://www.tonymacx86.com/members/errrneist.1550861/)
 #### Don't forget to star this project if you like it!
 #### *Fork* this project to your own repository to make changes on your own configuration.
