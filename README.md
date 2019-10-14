@@ -1,8 +1,11 @@
 # Hackintosh Configuration for Lenovo Thinkpad P50
 > "I think you guys should study more and do more research." ———— The man who changed China.
+
+<img align="right" src="https://github.com/Errrneist/Hackintosh-Thinkpad-P50/blob/master/img/sierra.png" alt="Critter" width="250">
+
 #### Developer: [@Errrneist](https://www.tonymacx86.com/members/errrneist.1550861/)
 #### Don't forget to star this project if you like it!
-#### *Fork* this project to your own repository to make changes on your own configuration.
+#### *Fork* this project to your own repository to make changes.
 
 #### If you are interested in the theme I used, check it out over here: [Minimalism](https://github.com/Errrneist/Hackintosh-Theme-Minimalism)
 
