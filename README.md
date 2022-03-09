@@ -20,6 +20,7 @@
 * NVIDIA Quadro M1000M 2GB GDDR5 (Disabled)
 * FHD 1080P 15' FlexView Screen
 * 720P WebCam with Indicator Light
+* Dell DW 1830 BCM43602 Bluetooth 4.1 LE
 * Sandisk SD8TN8U256G1001 256G SATA SSD
 
 ## Instructions
@@ -27,6 +28,9 @@
 * To make life easier, you'll want to have another mac with you. 
   * You can do it without another mac, but that'll be complicated.
   * The main idea is simple, make a macOS installer usb drive and copy the EFI folder to the EFI partition of the USB drive.
+
+### Set BIOS
+* ![image](https://user-images.githubusercontent.com/27667864/157505067-4bd1e7ea-0af7-4a35-a06a-7a363d3e3cb8.png)
 
 ### Make USB Drive
 * First, download macOS 12 (Or later, but no promises if it still works) from Apple App Store.
