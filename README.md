@@ -3,7 +3,7 @@
 
 <img align="right" src="https://github.com/Errrneist/Hackintosh-Thinkpad-P50/blob/master/img/monterey.png" alt="Critter" width="250">
 
-#### Developer: [@Errrneist](https://www.tonymacx86.com/members/errrneist.1550861/)
+#### Developer: [Hongjun Wu](https://www.tonymacx86.com/members/errrneist.1550861/)
 #### Don't forget to star this project if you like it!
 #### *Fork* this project to your own repository to make changes.
 
