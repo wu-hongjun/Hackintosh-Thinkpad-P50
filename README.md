@@ -1,5 +1,5 @@
 # Hackintosh Configuration for Lenovo Thinkpad P50
-> "I think you guys should study more and do more research." ———— The man who changed China.
+> "I think you guys should study more and do more research." ———— Him.
 
 <img align="right" src="https://github.com/Errrneist/Hackintosh-Thinkpad-P50/blob/master/img/monterey.png" alt="Critter" width="250">
 
