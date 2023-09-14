@@ -3,7 +3,6 @@
 
 <img align="right" src="https://github.com/Errrneist/Hackintosh-Thinkpad-P50/blob/master/img/monterey.png" alt="Critter" width="250">
 
-#### [Hongjun Wu](https://github.com/wu-hongjun)
 #### Don't forget to star this project if you like it!
 #### *Fork* this project to your own repository to make changes.
 
@@ -60,5 +59,5 @@
 * However, if you would like to buy me a coffee, you can do that using QR codes (WechatPay/AliPay or Venmo).
 <img align="middle" src="https://github.com/Errrneist/Hackintosh-Razer-Blade-Advanced/blob/master/IMG/donate.png" alt="donate" width="800">
 
-#### Happy hackintoshing!
-### Errrneist.
+> Happy hackintoshing!
+
